@@ -1,0 +1,3 @@
+[submodule "in-silico_decomposition"]
+	path = in-silico_decomposition
+	url = https://github.com/IMSB-CBM/CBM-Software-Repo/
